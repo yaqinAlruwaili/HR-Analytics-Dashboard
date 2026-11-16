@@ -26,7 +26,7 @@ Develop an interactive dashboard to:
 
 The HR Analytics Dashboard provides a comprehensive overview of workforce performance through KPIs, charts, and interactive filters.
 
-![HR Analytics Dashboard](images/HR%20analytics%20dashboard.png)
+![HR Analytics Dashboard](<HR analytics dashboard.png>)
 
 ### Key Performance Indicators (KPIs)
 
